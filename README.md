@@ -1,56 +1,56 @@
 If I were looking for a job right now, I'd do quite a few things (most I did this time around, not enough of them in time for maximum offers tho):
 
-These are the things you need to know:
-http://programmers.stackexchange.com/questions/155639/which-algorithms-data-structures-should-i-recognize-and-know-by-name
+These are the things you need to know:\
+http://programmers.stackexchange.com/questions/155639/which-algorithms-data-structures-should-i-recognize-and-know-by-name \
 https://www.quora.com/What-algorithms-and-data-structures-should-any-software-engineer-know
 
-Google has a much more elaborate list on the "ideal" full knowledge base:
+Google has a much more elaborate list on the "ideal" full knowledge base:\
 https://www.google.com/about/careers/students/guide-to-technical-development.html
 
-Read these books, recommended by Google for their interview process:
-"Programming Interviews Exposed, 3rd Edition" by John Mongan, Noah Kindler, Eric Giguere
- ~ https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364
-"Cracking the Coding Interview, 5th Edition" by Gayle Laakmann McDowell
- ~ https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850
-"Introduction to Algorithms, 3rd Edition" by by Thomas Cormen, Charles Leiserson, Ronald Rivest, Clifford Stein
- ~ https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844
+Read these books, recommended by Google for their interview process:\
+"Programming Interviews Exposed, 3rd Edition" by John Mongan, Noah Kindler, Eric Giguere\
+ ~ https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364 \
+"Cracking the Coding Interview, 5th Edition" by Gayle Laakmann McDowell\
+ ~ https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850 \
+"Introduction to Algorithms, 3rd Edition" by by Thomas Cormen, Charles Leiserson, Ronald Rivest, Clifford Stein\
+ ~ https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844 \
 (All are easy to find as pdfs online as well)
 
-Consider watching this series from MIT for actual lectures on some of the topics from above:
+Consider watching this series from MIT for actual lectures on some of the topics from above:\
 https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
 
-AFTER fully prepping for the vital stuff from above (seriously, you will be quizzed in interviews about them), start doing some programming puzzle exercises to practice these skills for interviews:
-https://projecteuler.net/
+AFTER fully prepping for the vital stuff from above (seriously, you will be quizzed in interviews about them), start doing some programming puzzle exercises to practice these skills for interviews:\
+https://projecteuler.net/ \
 https://code.google.com/codejam/contests.html
 
 
 Then transition that same practice into to job application with some more company/job focused exercises that lead to offers:
 
-https://codefights.com/signup/B2WP4vmrgPaK2AQ6k/main  (affiliate link for me)
+https://codefights.com/signup/B2WP4vmrgPaK2AQ6k/main  (affiliate link for me)\
 CodeFights is one where you practice your skills and then get job offers out of your performance there.
 
-https://www.hackerrank.com/
+https://www.hackerrank.com/ \
 Hacker Rank is same thing as Code Fights but I haven't tried this one yet.
 
-https://www.codewars.com/
+https://www.codewars.com/ \
 Code Wars is another of the same idea that I haven't tried.  Not sure how long the market will support so many of this kind of concept...
 
 
 Once you feel properly prepared, sign up with all the services that serve as recruiters to get you job offers:
 
-http://fbuy.me/ehqja  (affiliate link for me to Vettery.com)
+http://fbuy.me/ehqja  (affiliate link for me to Vettery.com) \
 Vettery is how I got my current job, you sign up and fill out your resume and then employers contact you.
 
-http://www.interviewjet.com/candidates/sign_up
+http://www.interviewjet.com/candidates/sign_up \
 InterviewJet same idea as vettery, only vettery is done better -- sign up for both since they both get jobs
 
-https://hired.com/x/1h2sf  (affiliate link for me)
+https://hired.com/x/1h2sf  (affiliate link for me) \
 Hired is more popular than Vettery or InterviewJet these days but they told me they had no jobs for me....  Go figure since I got lots of job offers from vettery and interviewjet.  Obviously doesn't hurt to have an account everywhere.
 
-https://www.untapt.com/
+https://www.untapt.com/ \
 Untapt is for finance jobs.  I never got even one interview from this, so I'm sketched out by it.  Still... as with hired, it doesn't cost anything but a bit of copy paste from the other sites you just signed up with.
 
-https://triplebyte.com/
+https://triplebyte.com/ \
 TripleByte I never signed up for but it gets advertised to me a lot.  Same idea.
 
 

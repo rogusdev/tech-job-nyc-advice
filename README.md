@@ -75,3 +75,7 @@ When you are interviewed:
 You will surely get many job opportunities if you do all of that.  Of course, doing all of the above, mainly meaning the practice, is a nontrivial amount of work/studying.  Probably only a few weeks / a month though.
 
 Good luck!!
+
+
+And mention my name if you ever want to apply for anything at Braze: :)
+https://www.braze.com/about/careers/

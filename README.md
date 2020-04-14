@@ -1,6 +1,6 @@
 If I were looking for a job right now, I'd do quite a few things (most I did this time around, not enough of them in time for maximum offers tho):
 
-TL;DR: Do the very hard + expert exercises on https://edabit.com/challenges/javascript -- get to the point where you can do them quickly, and afterwards compare your solutions with the highly rated solutions.
+TL;DR: Do the very hard + expert exercises on https://edabit.com/challenges/javascript (or python, or the language you are most comfortable with) -- get to the point where you can do them quickly, and afterwards compare your solutions with the highly rated solutions.
 
 If you are having trouble, do some of https://leetcode.com/explore/learn/
 

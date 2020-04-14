@@ -1,5 +1,12 @@
 If I were looking for a job right now, I'd do quite a few things (most I did this time around, not enough of them in time for maximum offers tho):
 
+TL;DR: Do the very hard + expert exercises on https://edabit.com/challenges/javascript -- get to the point where you can do them quickly, and afterwards compare your solutions with the highly rated solutions.
+
+If you are having trouble, do some of https://leetcode.com/explore/learn/
+
+
+More broadly:
+
 These are the things you need to know:\
 http://programmers.stackexchange.com/questions/155639/which-algorithms-data-structures-should-i-recognize-and-know-by-name \
 https://www.quora.com/What-algorithms-and-data-structures-should-any-software-engineer-know

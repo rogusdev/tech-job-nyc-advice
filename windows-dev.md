@@ -8,8 +8,9 @@ This is wildly untrue: I do all of my personal dev (which is extensive) on a Win
 In the past, all my dev was in a Linux desktop/GUI OS in Virtualbox
 but Windows itself has come a long, long way just in the past year and some.
 
-(These days I do all my dev inside vagrant in virtualbox, using cygwin bash in windows terminal.
-But I'm excited for WSL 2 coming out!)
+(These days I do all my dev inside vagrant in virtualbox, using cygwin bash in windows terminal
+-- usually with docker apps running inside all of that. But I'm excited for
+[WSL2](https://www.hanselman.com/blog/HowToSetUpDockerWithinWindowsSystemForLinuxWSL2OnWindows10.aspx) to come out!)
 
 ## Windows dev options
 
@@ -43,7 +44,7 @@ For example:
 
 ## Setting up Windows dev envs
 
-There are 5 main options, installation instructions follow -- make sure you can run a basic Hello World app in each:
+There are 6 main options, installation instructions follow -- make sure you can run a basic Hello World app in each:
 
 #### 1. In Windows itself:
 
@@ -94,3 +95,18 @@ install the OS like normal, and then install the languages you want per the norm
 
 Again, this is yet another Linux install, so the same as WSL and Vagrant versions,
 only now you have a complete OS in Linux with GUI for IDEs and everything.
+
+#### 6. In Docker, in wherever you can run Docker:
+
+If you have Docker for Windows installed, you can run these just in cmd/powershell in Windows Terminal:
+
+    docker run --rm -it ruby /bin/bash
+    docker run --rm -it python /bin/bash
+    docker run --rm -it node /bin/bash
+    docker run --rm -it openjdk /bin/bash
+    docker run --rm -it mcr.microsoft.com/dotnet/core/sdk /bin/bash
+    docker run --rm -it golang /bin/bash
+    docker run --rm -it rust /bin/bash
+
+You can also run them inside vagrant/virtualbox, and
+[there is a Docker version that uses WSL2](https://docs.docker.com/docker-for-windows/wsl/).

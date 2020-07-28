@@ -18,8 +18,8 @@ and that's a strong option as well.
 
 Note that this repo is about "tech job advice" --
 and in coronavirus quarantine, a lot of tech interviews (all?) are remote.
-A lot of devs have windows machines at home and are (surprisingly?)
-unprepared for programming on those devices. This should help.
+A lot of devs have windows machines at home and are unfamiliar
+with programming on those devices, compared to macs. This should help.
 
 ## Windows dev options
 

@@ -18,7 +18,7 @@ and that's a strong option as well.
 
 Note that this repo is about "tech job advice" --
 and in coronavirus quarantine, a lot of tech interviews (all?) are remote.
-A lot of devs have windows machines at home and are unfamiliar
+A lot of devs have windows machines at home and are sometimes unfamiliar
 with programming on those devices, compared to macs. This should help.
 
 ## Windows dev options
@@ -128,7 +128,7 @@ Just don't install any of the languages via choco.
 
 Windows Subsystem for Linux version 2 is a complete Linux kernel running inside Windows!
 
-You need win20 2004 or later, and then to enable a variety of features:
+You need win10 2004 or later, and then to enable a variety of features:
 
 https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
